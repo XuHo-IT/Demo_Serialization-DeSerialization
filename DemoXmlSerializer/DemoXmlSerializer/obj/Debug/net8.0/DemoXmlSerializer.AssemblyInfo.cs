@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoXmlSerializer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305db1b9e49f214cd9bf82cc286f972bd380aa87")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoXmlSerializer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoXmlSerializer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

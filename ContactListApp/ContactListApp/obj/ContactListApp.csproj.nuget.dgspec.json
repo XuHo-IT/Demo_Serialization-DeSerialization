@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OS\\Downloads\\JSON_XML_Serialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj": {}
+    "E:\\PRN212\\Serialization-DeSerialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OS\\Downloads\\JSON_XML_Serialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj": {
+    "E:\\PRN212\\Serialization-DeSerialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OS\\Downloads\\JSON_XML_Serialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj",
+        "projectUniqueName": "E:\\PRN212\\Serialization-DeSerialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj",
         "projectName": "ContactListApp",
-        "projectPath": "C:\\Users\\OS\\Downloads\\JSON_XML_Serialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj",
+        "projectPath": "E:\\PRN212\\Serialization-DeSerialization\\ContactListApp\\ContactListApp\\ContactListApp.csproj",
         "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OS\\Downloads\\JSON_XML_Serialization\\ContactListApp\\ContactListApp\\obj\\",
+        "outputPath": "E:\\PRN212\\Serialization-DeSerialization\\ContactListApp\\ContactListApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
